@@ -3,7 +3,7 @@ Inspirado no jogo de adivinhação de palavras do programa Sílvio Santos.
 
 Tecnologias Utilizadas:
  
- -HTML
- -CSS
- -JavaScript
+ - HTML
+ - CSS
+ - JavaScript
  - ReactJs
